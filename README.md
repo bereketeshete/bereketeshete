@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there, I am Bereket 👋
 
 <!--
 **bereketeshete/bereketeshete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+ I am a machine learning and AI researcher with a strong passion for education!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
