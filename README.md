@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
- I am a machine learning and AI researcher with a strong passion for education!
+ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a machine learning and AI researcher with a strong passion for education!
 
