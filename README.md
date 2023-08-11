@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 I am a machine learning and AI researcher with a strong passion for education!
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bereketeshete)](https://github.com/bereketeshete/github-readme-stats)
+
